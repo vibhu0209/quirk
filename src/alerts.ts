@@ -1,5 +1,5 @@
 import { Alert } from "./alerter";
-
+//Hi i am Vaibhav
 const alerts: Alert[] = [
   {
     slug: "alternative-thought-title",
